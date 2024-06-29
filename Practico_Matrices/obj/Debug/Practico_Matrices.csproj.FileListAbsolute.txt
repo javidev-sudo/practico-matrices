@@ -1,0 +1,9 @@
+C:\programacion1\Practico_Matrices\Practico_Matrices\bin\Debug\Practico_Matrices.exe.config
+C:\programacion1\Practico_Matrices\Practico_Matrices\bin\Debug\Practico_Matrices.exe
+C:\programacion1\Practico_Matrices\Practico_Matrices\bin\Debug\Practico_Matrices.pdb
+C:\programacion1\Practico_Matrices\Practico_Matrices\obj\Debug\Practico_Matrices.csprojResolveAssemblyReference.cache
+C:\programacion1\Practico_Matrices\Practico_Matrices\obj\Debug\Practico_Matrices.Form1.resources
+C:\programacion1\Practico_Matrices\Practico_Matrices\obj\Debug\Practico_Matrices.Properties.Resources.resources
+C:\programacion1\Practico_Matrices\Practico_Matrices\obj\Debug\Practico_Matrices.csproj.GenerateResource.Cache
+C:\programacion1\Practico_Matrices\Practico_Matrices\obj\Debug\Practico_Matrices.exe
+C:\programacion1\Practico_Matrices\Practico_Matrices\obj\Debug\Practico_Matrices.pdb
